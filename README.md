@@ -23,12 +23,12 @@ Desarrollado por **Daniel Dimitrov** y **Melisa Vafaeva**.
 
 ## Mapa de documentación
 
-- [Informe de entrega](Documentacion/informe.md): matrices, conclusiones y comentarios sobre el uso de la IA.
-- [Justificación detallada](Documentacion/justificacion.md): justificación de cada puntuación, cálculo del TCO a 5 años y nota sobre Verifactu.
-- [Matriz de decisión](matriz/index.html): página interactiva.
+- [Informe de entrega](Actividad/Documentacion/informe.md): matrices, conclusiones y comentarios sobre el uso de la IA.
+- [Justificación detallada](Actividad/Documentacion/justificacion.md): justificación de cada puntuación, cálculo del TCO a 5 años y nota sobre Verifactu.
+- [Matriz de decisión](Actividad/matriz/index.html): página interactiva.
 - Capturas de la matriz:
-  - [Empresa 1: Supermercado La Plaza](capturas/matriz_empresa1_supermercado.png)
-  - [Empresa 2: Reformas Levante](capturas/matriz_empresa2_reformas.png)
+  - [Empresa 1: Supermercado La Plaza](Actividad/capturas/matriz_empresa1_supermercado.png)
+  - [Empresa 2: Reformas Levante](Actividad/capturas/matriz_empresa2_reformas.png)
 
 ## Uso de la matriz
 
